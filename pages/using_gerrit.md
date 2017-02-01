@@ -1,13 +1,13 @@
 ---
 sidebar: home_sidebar
 title: Using gerrit
-permalink: bugreport-howto.html
+permalink: usinggerrit-howto.html
 ---
 
 ## Using gerrit
-[Gerrit][https://code.google.com/p/gerrit/] is a source code review system developed by Google for use with Android (though it can be applied to any type of project). You can use Gerrit if you find an error in the source code or if you believe you have a better way of implementing a certain feature.
+[Gerrit](https://code.google.com/p/gerrit/) is a source code review system developed by Google for use with Android (though it can be applied to any type of project). You can use Gerrit if you find an error in the source code or if you believe you have a better way of implementing a certain feature.
 
-Check out CyanogenMod's review system-- [Gerrit][http://review.cyanogenmod.org], located at http://review.cyanogenmod.org.
+Check out CyanogenMod's review system-- [Gerrit](http://review.cyanogenmod.org), located at http://review.cyanogenmod.org.
 
   - bugs in unofficial builds or anything not from download.lineageos.org
   - missing builds
